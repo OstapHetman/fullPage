@@ -1,0 +1,19 @@
+body {
+	margin:0 auto;
+	max-width: 1920px;
+}
+#section-1 {
+	background-color: #178957;
+}
+#section-2 {
+	background-color: #FFEA3C;
+}
+#section-3 {
+	background-color: #FFA313;
+}
+#section-4 {
+	background-color: #B63015;
+}
+#section-5 {
+	background-color: #8E370D;
+}
